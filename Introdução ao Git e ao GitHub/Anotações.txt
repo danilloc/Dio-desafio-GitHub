@@ -1,0 +1,1 @@
+este é um curso sobre o Git o Gitbash é um terminal extendido para otimizar o uso do Git
